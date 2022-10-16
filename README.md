@@ -1,6 +1,4 @@
-Stefan Diana Maria
-grupa 312CC
-Tema 2 - MN: Interpolare aplicata pe imagini
+#	INTERPOLARE APLICATA PE IMAGINI
 --------------------------------------------------------------------------------------------
 
 Am implementat 2 metode de interpolare aplicata pe imagini: interpolarea proximala si interpolarea
